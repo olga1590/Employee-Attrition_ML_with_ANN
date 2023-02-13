@@ -17,7 +17,7 @@ It takes 52 days on average to fill a position.
 Source: https://toggl.com/blog/cost-of-hiring-an-employee
 
 ### Objective
-Conduct an analysis to identify important factors that might be influential in determining which employee might leave the firm and who may not and develop a model that can predict whether a person quits or stays.
+Conduct an analysis to identify important factors that might be influential in determining which employee might leave the firm and who may not and developed a model that can predict whether a person quits or stays.
 
 ### Role
 Worked 21 hours a week as a data scientist within a team of 4 to produce visualizations of employee attrition and develop a model that could predict which employees are more likely to quit.
